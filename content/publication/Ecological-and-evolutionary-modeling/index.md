@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ecological and Evolutionary Modeling"
-authors: []
+authors: [Alexis Garretson, Lorelei Crerar]
 date: 2018-03-19T12:20:25-04:00
 doi: ""
 
@@ -13,10 +13,10 @@ publishDate: 2020-05-09T12:20:25-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "A Laboratory Manual for Biology 308: Laboratory/Field Exercises in Ecology and Evolution"
 publication_short: ""
 
 abstract: "ABMs are typically constructed and implemented in computer simulation environments, and can then be used to test how changes in individual behaviors will affect the overall behavior. One simulation environment is NetLogo: An open source and free multi-agent programmable modeling environment. It was created in 1999, and has been in continuous development ever since. Today we will be using the NetLogo environment to investigate evolution and natural selection using a few of the built-in teaching models."
