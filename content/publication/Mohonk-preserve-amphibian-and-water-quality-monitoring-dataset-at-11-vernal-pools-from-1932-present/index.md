@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mohonk Preserve Amphibian and Water Quality Monitoring Dataset at 11 Vernal Pools From 1932 Present"
+title: "Mohonk Preserve amphibian and water quality monitoring dataset at 11 vernal pools from 1932-present"
 authors: [Mohonk Preserve and Feldsine, Natalie and Forester, Anna and Garretson, Alexis and Huth, Paul and Long, Elizabeth and Morgan, Vanessa and Napoli, Megan and Pierce, Ethan and Smiley, Daniel and Smiley, Shanan and Thompson, John]
 date: 2020-04-08T17:28:35-04:00
 doi: "10.6073/PASTA/9EB31B2E15146E6A71F3FEA8D3724AAA"

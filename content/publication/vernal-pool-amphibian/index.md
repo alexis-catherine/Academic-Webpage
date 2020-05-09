@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vernal Pool Amphibian Breeding Ecology Monitoring From 1931 to Present: a Harmonised Historical and Ongoing Observational Ecology Dataset"
+title: "Vernal pool amphibian breeding ecology monitoring from 1931 to Present: a harmonised historical and ongoing observational ecology dataset"
 authors: [Alexis Garretson, Megan Napoli, Natalie Feldsine, Penelope Adler-Colvin, Elizabeth Long]
 date: 2020-04-14T15:10:53-04:00
 doi: "10.3897/BDJ.8.e50121"

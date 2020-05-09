@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mohonk Preserve Stream Water Quality Invasive Species and Macroinvertebrate Sampling From 2017 Present"
+title: "Mohonk Preserve stream water quality, invasive species, and macroinvertebrate sampling from 2017-present"
 authors: [Mohonk Preserve and Feldsine, Natalie A and Garretson, Alexis C and Kathe, Jessica J and Long, Elizabeth C and Montoya, Anthony J and Napoli, Megan M and Wander, Heather and Citizen Science Volunteers]
 date: 2020-03-15T15:12:31-04:00
 doi: "10.6073/PASTA/A00FF0A44F3305F17C99D87E6A0F29FD"
