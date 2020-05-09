@@ -20,7 +20,7 @@ organizations:
   url: "https://www.mohonkpreserve.org/what-we-do/conservation-science/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Improving data management and analytics in biological and environmental sciences
 
 interests:
 - Bioinformatics
@@ -77,5 +77,8 @@ user_groups:
 ---
 
 Alexis Garretson is a National Science Foundation Graduate Research Fellow completing her master’s in Evolutionary Biology at George Mason University. Her research focuses on improving the accessibility and integration of historical data sources and ensuring sustainable stewardship of scientific data at small research institutions. She has served as the Data Stewardship Community Fellow for the Earth Science Information Partners for the last two years. She advocates for open data as an Open Biodiversity Data Ambassador with the Global Biodiversity Information Facilities, a Science Ambassador with the Science Gateways Community Institute, and as a former Environmental Data Initiative Fellow with the Mohonk Preserve. She has also been involved in bioinformatics and data science education as an instructor with The Carpentries and through developing university data science curriculum. This fall, she will begin her Ph.D. in Genetics through the joint program at Tufts University and The Jackson Laboratory in Bar Harbor, Maine.
+
+Check out my observations and identifications on [iNaturalist](https://www.inaturalist.org/people/alexis18
+) 
 
 {{% staticref "files/Garretson_CV.pdf" %}}Download my CV{{% /staticref %}}.
