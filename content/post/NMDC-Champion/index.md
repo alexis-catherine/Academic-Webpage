@@ -3,7 +3,7 @@
 
 title: "National Microbiome Data Collective Champion"
 subtitle: ""
-summary: "I'm excited to join the National Microbiome Data Collective as the newest NMDC Champion!"
+summary: "I'm excited to join the National Microbiome Data Collaborative as the newest NMDC Champion!"
 authors: [Alexis Garretson]
 tags: []
 categories: []
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Founded to support the long-term advancement of microbiome science, the National Microbiome Data Center is building an open-source, agile, integrated data system. Our scientific mission is to provide comprehensive discovery of and access to multidisciplinary microbiome data.
+Founded to support the long-term advancement of microbiome science, the National Microbiome Data Collaborative is building an open-source, agile, integrated data system. Our scientific mission is to provide comprehensive discovery of and access to multidisciplinary microbiome data.
 NMDC Champions understand and appreciate the value of well-curated data, and are willing to advocate for the importance of FAIR microbiome data.
 
 [Check it out!](https://microbiomedata.org/nmdc-champions/)
