@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/Digital_Data_2020_Poster_Milkweed/Cuddy_DD2020.pptx
+url_pdf: Cuddy_DD2020.pptx
 url_code:
 url_dataset:
 url_poster:
