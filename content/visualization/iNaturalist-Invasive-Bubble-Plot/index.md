@@ -32,13 +32,17 @@ Code to make this figure is below and can be [downloaded here](bubble_plot_iNatu
 Change the place_id and the place_name to your place of interest. 
 Find your place ID from the iNaturalist search function, when you search your location name in the search bar, like "Fairfax County", the resulting url has the place name in the url (ex. for the url https://www.inaturalist.org/observations?place_id=738 the place name is 738)
 
+		#install.packages("tidyverse", "devtools", "ggraph", "packcircles")
+		#library(devtools)
+		#devtools::install_github("hrbrmstr/curlconverter")
+
 		library(curlconverter)
 		library(tidyverse)
 		library(ggraph)
 		library(packcircles)
 
-		place_id <- 738
-		place_name <- "Fairfax County"
+		place_id <- 744
+		place_name <- "PWC"
 
 		iconic_name <- NULL
 		name <- NULL
@@ -51,10 +55,12 @@ Find your place ID from the iNaturalist search function, when you search your lo
 		for(i in 1:length(dat$results)){
 		   iconic_name <- c(iconic_name, dat$results[[i]]$taxon$iconic_taxon_name)
 		   name <- c(name,dat$results[[i]]$taxon$name)
-		   common <- c(common, dat$results[[i]]$taxon$preferred_common_name)
+		   if(is.null(dat$results[[i]]$taxon$preferred_common_name)){
+			 common <- c(common, NA)}else{
+			 common <- c(common, dat$results[[i]]$taxon$preferred_common_name)}
 		}
-
-		for (i in 1:floor(dat$total_results/200)){
+		if (dat$total_results > 200){
+		for (i in 2:floor(dat$total_results/200)){
 		  api <- paste("curl -X GET --header 'Accept: application/json' 'https://api.inaturalist.org/v1/observations?endemic=false&geo=true&introduced=true&place_id='", place_id, "&quality_grade=research&page=", i, "&per_page=200&order=desc&order_by=created_at'", sep = "")
 		  my_ip <- straighten(api) %>% 
 			make_req()
@@ -67,7 +73,7 @@ Find your place ID from the iNaturalist search function, when you search your lo
 			  common <- c(common, dat$results[[j]]$taxon$preferred_common_name)}
 		  }
 		}
-
+		}
 
 
 		dat2 <- dat
