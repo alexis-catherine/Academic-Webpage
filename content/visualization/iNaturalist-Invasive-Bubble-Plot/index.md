@@ -3,7 +3,7 @@
 
 title: "iNaturalist Invasive Bubble Plot"
 subtitle: ""
-summary: "Code to generate a bubble plot from the iNaturalist observations of invasive species in a particular region"
+summary: "Code to generate a bubble plot from the iNaturalist observations of introduced species in a particular region"
 authors: [Alexis]
 tags: []
 categories: []
