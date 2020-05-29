@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Biology Education"
-summary: ""
+summary: " "
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Current students:   
+[R Regression](R_Regression.pdf)  
+[R Regression Exercise](R_Regression_exercise.pdf)  
+[Comparisons between groups](Comparisons_between_groups.pdf)  
+[Descriptive Statistics](Descriptive_Statistics.pdf)
