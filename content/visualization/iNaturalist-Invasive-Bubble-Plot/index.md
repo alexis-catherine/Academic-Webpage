@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "iNaturalist Invasive Bubble Plot"
+title: "iNaturalist Introduced Bubble Plot"
 subtitle: ""
 summary: "Code to generate a bubble plot from the iNaturalist observations of introduced species in a particular region"
 authors: [Alexis]
