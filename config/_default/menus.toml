@@ -17,12 +17,7 @@
   name = "In the Media"
   url = "post/"
   weight = 35
-  
- [[main]]
-  name = "iNaturalist Visualizations"
-  url = "visualization/"
-  weight = 45
-  
+   
 [[main]]
   name = "Gallery"
   url = "#gallery"
