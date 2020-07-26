@@ -1,5 +1,5 @@
 ---
-title: In the Media
+title: Updates
 
 # View.
 #   1 = List
