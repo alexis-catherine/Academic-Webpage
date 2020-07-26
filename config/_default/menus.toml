@@ -14,7 +14,7 @@
   weight = 10
   
 [[main]]
-  name = "In the Media"
+  name = "Updates"
   url = "post/"
   weight = 35
    
