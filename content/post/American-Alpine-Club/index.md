@@ -7,7 +7,7 @@ summary: "Awarded an AAC Research Grant"
 authors: []
 tags: []
 categories: []
-date: 2020-07-26T16:52:02-04:00
+date: 2020-05-26T16:52:02-04:00
 lastmod: 2020-07-26T16:52:02-04:00
 featured: false
 draft: false
