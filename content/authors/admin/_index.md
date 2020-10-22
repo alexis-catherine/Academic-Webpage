@@ -14,8 +14,10 @@ role: National Science Foundation Graduate Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: George Mason University
-  url: "https://www2.gmu.edu/"
+- name: The Jackson Laboratory
+  url: "https://www.jax.org/"
+- name: Tufts University
+  url:	"https://gsbs.tufts.edu/academics/mammalianGenetics"
 - name: Mohonk Preserve
   url: "https://www.mohonkpreserve.org/what-we-do/conservation-science/"
 
@@ -31,7 +33,7 @@ education:
   courses:
   - course: PhD Genetics, Mammalian Genetics
     institution: Tufts University & Jackson Laboratory
-    year: 2025
+    year: in progress
   - course: MS Biology, Evolutionary Biology
     institution: George Mason University
     year: 2020
