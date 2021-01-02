@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: Digital_Data_Presentation.pdf
+url_slides: 
 url_source:
 url_video: https://www.youtube.com/watch?v=H3q6pcTjBlg
 

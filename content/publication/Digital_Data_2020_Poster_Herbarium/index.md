@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/Digital_Data_2020_Poster_Herbarium/Garretson_herbarium_DD2020.pdf
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
