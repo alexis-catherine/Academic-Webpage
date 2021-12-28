@@ -15,14 +15,16 @@ role: National Science Foundation Graduate Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: The Jackson Laboratory
-  url: "https://www.jax.org/"
+  url: "https://www.jax.org/people/alexis-garretson"
 - name: Tufts University
-  url:	"https://gsbs.tufts.edu/academics/mammalianGenetics"
+  url:	"https://gsbs.tufts.edu/facultyResearch/student/garretson-alexis"
+- name: MDI Biological Laboratory
+  url:	"https://mdibl.org/faculty/jane-e-disney-ph-d/"
 - name: Mohonk Preserve
   url: "https://www.mohonkpreserve.org/what-we-do/conservation-science/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Improving data management and analytics in biological and environmental sciences
+bio: Improving data management and analytics in the life sciences
 
 interests:
 - Bioinformatics
@@ -69,7 +71,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "alexis.garretson@jax.org"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,8 +80,7 @@ user_groups:
 - Visitors
 ---
 
-Alexis Garretson is a National Science Foundation Graduate Research Fellow and Predoctoral Student at Tufts University and The Jackson Laboratory joint program in Mammalian Genetics. Her research focuses on improving the accessibility and integration of historical data sources and ensuring sustainable stewardship of scientific data at small research institutions. She has served as the Data Stewardship Community Fellow for the Earth Science Information Partners for the last two years. She advocates for open data as an Open Biodiversity Data Ambassador with the Global Biodiversity Information Facilities and a Champion with the National Microbiome Data Collaborative. She has also been involved in bioinformatics and data science education as an instructor with The Carpentries and through developing university data science curriculum.
-
+Alexis Garretson is a National Science Foundation Graduate Research Fellow and Predoctoral Student at Tufts University and The Jackson Laboratory joint program in Mammalian Genetics. Her Ph.D. research in the Dumont Lab focuses on using genetically diverse mouse strains to investigate the causes and consequences of mutation rate variation in populations. She previously completed a M.S. degree in Evolutionary Biology at George Mason University with Dr. Rebecca Forkner using citizen science data and herbarium specimens to investigate the fall color change. She advocates for open data as an Open Biodiversity Data Ambassador with the Global Biodiversity Information Facilities and a Champion with the National Microbiome Data Collaborative. Alexis has also been involved in bioinformatics and data science education as an instructor with The Carpentries and through developing university data science curriculum.
 Check out my observations and identifications on [iNaturalist](https://www.inaturalist.org/people/alexis18
 ) 
 

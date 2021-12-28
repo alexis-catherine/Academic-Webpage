@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project: 
-url_slides: Digital_Data_2020_Poster_Milkweed.pptx
+url_slides: 
 url_source:
 url_video: https://www.youtube.com/watch?v=xs_Ro8pXJHc&feature=youtu.be
 
