@@ -16,7 +16,7 @@
 [[main]]
   name = "Data Packages"
   url = "data-packages/"
-  weight = 35
+  weight = 10
   
 [[main]]
   name = "Updates"
