@@ -1,12 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explore the Network!"
+title: "Network Visualization for Mohonk Preserve Ecological Community"
 authors: [Garretson, Alexis]
 date: 2022-07-11T22:02:39-04:00
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-07-11T22:02:39-04:00
+
+# Summary. An optional shortened abstract.
+summary: "See the phenological network for Mohonk Preserve"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,3 +39,4 @@ publishDate: 2022-07-11T22:02:39-04:00
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-19dc7bd60b938ac783eb">{"viewer":{"width":450,"height":350,"padding":15,"fill":true},"browser":{"width":960,"height":500,"padding":40,"fill":false}}</script>
 </body>
 </html>
+---
