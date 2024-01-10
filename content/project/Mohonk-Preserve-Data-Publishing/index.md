@@ -4,7 +4,7 @@
 title: "Mohonk Preserve Data Publishing"
 summary: ""
 authors: []
-tags: []
+tags: [data]
 categories: []
 date: 2020-05-08T16:38:48-04:00
 

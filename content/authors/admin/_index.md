@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: National Science Foundation Graduate Research Fellow
+role: NSF Graduate Research Fellow ACM SIGHPC Computational & Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -60,9 +60,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Alexis_Garretson
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GarretsonAlexis
 - icon: github
   icon_pack: fab
   link: https://github.com/alexis-catherine
@@ -80,14 +77,10 @@ user_groups:
 - Visitors
 ---
 
-Alexis Garretson is a Doctoral Candidate at the Tufts University and The Jackson Laboratory joint program in Mammalian Genetics and a National Science Foundation Graduate Research Fellow. Her Ph.D. research in the Dumont Lab focuses on using genetically diverse mouse strains to investigate the genetic causes and evolutionary consequences of mutation rate variation in populations, particularly as it relates to reproduction and fitness. She previously completed a M.S. degree in Evolutionary Biology at George Mason University with Dr. Rebecca Forkner using citizen science data and herbarium specimens to investigate the impacts of climate change on the fall color change in the Northeast US. 
+Alexis Garretson is a Doctoral Candidate at the Tufts University and The Jackson Laboratory joint program in Mammalian Genetics and a National Science Foundation Graduate Research Fellow. Her Ph.D. research in the [Dumont Lab](https://www.jax.org/research-and-faculty/research-labs/the-dumont-lab) focuses on using genetically diverse mice and bioinformatics approaches to produce high-quality estimates of mutation rate variation in populations and relate this molecular phenotype to infertility and reproductive health. She previously completed a M.S. degree in Evolutionary Biology at George Mason University with [Dr. Rebecca Forkner](https://science.gmu.edu/directory/rebecca-forkner) using community science and herbarium specimens to investigate the impacts of climate change on the timing of plant and insect reproductive phenology. 
 <br>
 <br>
-She advocates for open data as an Open Biodiversity Data Ambassador with the Global Biodiversity Information Facilities and as a data specialist with Anecdata.org. Alexis is also involved in bioinformatics and data science education as an instructor with The Carpentries and through developing university data science curricula.
+She is an advocate for open data through supporting data reuse, synthesis, and access and as a data specialist with [Anecdata.org](https://anecdata.org/pages/about). Alexis is also involved in bioinformatics and data science education as an instructor with The Carpentries and through developing university data science curricula.
 <br>
-<br>
-Check out my observations and identifications on [iNaturalist](https://www.inaturalist.org/people/alexis18
-)
-
 
 {{% staticref "files/Garretson_CV.pdf" %}}Download my CV{{% /staticref %}}.

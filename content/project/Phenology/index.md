@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Phenology"
+title: "Life History & Phenology"
 summary: ""
 authors: []
-tags: []
+tags: [ecology]
 categories: []
 date: 2020-05-08T16:39:44-04:00
 

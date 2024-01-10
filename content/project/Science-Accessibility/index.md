@@ -4,7 +4,7 @@
 title: "Improving Science Accessibility"
 summary: ""
 authors: []
-tags: []
+tags: [dei]
 categories: []
 date: 2020-05-08T16:40:04-04:00
 
